@@ -1,0 +1,13 @@
+/* Styles go here */
+
+.selectedSpan{
+  color:white;
+  background: red;
+  padding:0px 6px 2px 6px;
+}
+
+.unSelectedSpan{
+  color: red;
+  background: yellow;
+  padding:0px 6px 2px 6px;
+}
